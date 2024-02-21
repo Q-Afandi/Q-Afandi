@@ -1,6 +1,7 @@
 ### Hi, I'm Fandi 👋
+
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://media.giphy.com/media/vEt95erG4IRvw5N1WJ/giphy.gif?cid=790b7611qvyyj82ksl75au2oeaqge59bo7nulzo3osmxfbx8&ep=v1_gifs_search&rid=giphy.gif&ct=g)"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
