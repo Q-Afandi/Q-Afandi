@@ -8,6 +8,9 @@
 
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Q-Afandi&theme=transparent)](https://git.io/streak-stats)
+<img src="https://raw.githubusercontent.com/Q-Afandi/Q-Afandi/output/snake.svg" alt="Snake animation" />
+
+###
 
 <h3 align="left">UI UX Design</h3>
 <p align="left"> 
