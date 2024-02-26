@@ -20,12 +20,7 @@
 </div>
 
 ###
-<p align="left">
-<a href="https://github.com/Q-Afandi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Q-Afandi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Q-Afandi&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
+
 ###
 
 <h3 align="left">UI UX Design</h3>
